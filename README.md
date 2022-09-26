@@ -1,4 +1,4 @@
-#Zdolgočasene-zamisli
+# Zdolgočasene-zamisli
 Preprosta stran z zamislimi iz API-ja, 2 različnima barvnima načinoma ter prilagojena napravam vseh zaslonov.
 Vsebina zamisli iz API-ja je angleška, zato je sproti prevedena, kar lahko povzroči nejasne ali slabo razumljive zamisli.
 Izdelana za vajo HTML/CSS/JAVASCRIPT => API.<br>
