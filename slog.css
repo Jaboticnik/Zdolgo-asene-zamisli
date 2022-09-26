@@ -286,6 +286,10 @@ footer h3 {
     text-transform: uppercase;
 }
 
+.izvorna-koda:hover {
+    text-decoration: underline;;
+}
+
 @media (min-width: 13em) {
     footer {
         flex-direction: row;
