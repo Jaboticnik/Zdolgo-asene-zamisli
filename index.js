@@ -1,4 +1,5 @@
 import './nacin.js'
+import './visina-zaslona-popravitev.js'
 import Prevajanje from "./prevajalnik.js"
 
 const GumbzamisliHTML = document.getElementById('gumb-zamisli')
