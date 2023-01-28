@@ -4,7 +4,7 @@ Vsebina zamisli iz API-ja je angleška, zato je sproti prevedena, kar lahko povz
 Izdelana za vajo HTML/CSS/JAVASCRIPT => API.<br>
 //S PRITISKOM NA MAJHNO SLIKO STRŽENA NA DNU STRANI SPREMENITE <bold>BARVNI NAČIN STRANI</bold>.
 <br>
-<a href="https://zamisli.strzen.xyz">Predogled</a> v živo.
+<a href="https://zamisli.strzen.si">Predogled</a> v živo.
 <br>
 Slike:
 <br>
